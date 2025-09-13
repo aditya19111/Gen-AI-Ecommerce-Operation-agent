@@ -20,7 +20,7 @@ Tech Stack:
 • LLM: Open-source (BERT/T5) → Gemini/OpenAI GPT for production.
 • Cloud: Render/Railway (free) → AWS/GCP for scaling.
 
-3. Project Timeline (12 Weeks Plan)
+3. Project Timeline (12 Weeks Plan) (Notion link - https://www.notion.so/Gantt-Chart-Project-Schedule-26d21bad15ba80b882b0ebf142ef588f?source=copy_link)
 
 Phase 1 – Setup & Planning (Week 1–2)
 • Define business KPIs (stockouts, delays, cancellations).
