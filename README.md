@@ -4,19 +4,13 @@ GenAI-powered e-commerce operations agent for managing inventory, orders, and de
 Plan – GenAI Smart E-commerce Operations Agent
 
 1. Project Goals
+   
 • Build a GenAI-powered agent for inventory & order operations.
 • Allow natural language queries (chat interface).
 • Provide AI-driven forecasting, alerts, and insights.
 • Deploy on cloud (free or enterprise-ready).
 
 2. Key Resources
-3. 
-Team:
-• 1 Data Engineer (ETL + DB setup)
-• 1 ML Engineer (forecasting + LLM integration)
-• 1 Backend Developer (APIs, orchestration)
-• 1 Frontend Developer (dashboard/chat UI)
-• (Optional) 1 Cloud Engineer (deployment automation)
 
 Tech Stack:
 • Frontend: Streamlit (free) → React (enterprise).
@@ -26,7 +20,7 @@ Tech Stack:
 • LLM: Open-source (BERT/T5) → Gemini/OpenAI GPT for production.
 • Cloud: Render/Railway (free) → AWS/GCP for scaling.
 
-3 Project Timeline (12 Weeks Plan)
+3. Project Timeline (12 Weeks Plan)
 
 Phase 1 – Setup & Planning (Week 1–2)
 • Define business KPIs (stockouts, delays, cancellations).
@@ -63,31 +57,7 @@ Phase 7 – Testing & Launch (Week 12)
 • Measure accuracy & response quality.
 • Launch MVP for pilot users.
 
-5. Timeline Overview (Gantt Style)
-Phase
-Timeline
-Key Deliverables
-Planning & Setup
-Week 1–2
-KPIs, dataset, architecture design
-Data Pipeline
-Week 3–4
-ETL, cleaned DB
-AI Models
-Week 5–6
-Forecasting + classification models
-LLM Agent
-Week 7–8
-Query → Insight agent
-Frontend & Backend
-Week 9–10
-Chat + dashboard
-Deployment & MLOps
-Week 11
-Cloud deployment, logging
-Testing & Launch
-Week 12
-MVP live
+
 
 6. Success Metrics
 • Forecast Accuracy: >80% accuracy for demand prediction.
